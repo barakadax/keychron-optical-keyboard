@@ -7,4 +7,6 @@ Trying to build a low profile optical keyboard using Keychron switches, <a href=
     <li>Intel thunderbolt 5 usb 4 chip - JHL9580 - <a href="https://www.mouser.co.il/ProductDetail/Intel/JHL9580-S-RN7W?qs=iLKYxzqNS742ZoPg4jmqBQ%3D%3D">link</a></li>
     <li>Silicon Labs Bluetooth LE 5.4 + WiFi 6 - SiWG917M111MGTBAR - <a href="https://www.mouser.co.il/ProductDetail/Silicon-Labs/SiWG917M111MGTBAR?qs=ST9lo4GX8V0Yu5exfwFKXg%3D%3D">link</a><br>(when possible need to switch to <a href="https://www.broadcom.com/products/wireless/wireless-lan-bluetooth/bcm4390">Broadcom BCM4390</a>)</li>
     <li>SanDisk flash memory 16GB - SDINBDG4-16G - <a href="https://www.mouser.co.il/ProductDetail/SanDisk/SDINBDG4-16G?qs=5aG0NVq1C4yJ1K0XZbN2MA%3D%3D">link</a></li>
+    <li>Keychron low profile optical switches - mint - <a href="https://www.keychron.com/products/low-profile-keychron-optical-switch-set-87-pcs?variant=39401450405977">link</a></li>
+    <li>LED contoller chip - IS31FL3731 - <a href="https://www.lumissil.com/applications/industrial/appliance/major-appliances/range-hood/is31fl3731">link</a></li>
 </ol>
