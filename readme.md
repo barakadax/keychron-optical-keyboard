@@ -9,4 +9,11 @@ Trying to build a low profile optical keyboard using Keychron switches, <a href=
     <li>SanDisk flash memory 16GB - SDINBDG4-16G - <a href="https://www.mouser.co.il/ProductDetail/SanDisk/SDINBDG4-16G?qs=5aG0NVq1C4yJ1K0XZbN2MA%3D%3D">link</a></li>
     <li>Keychron low profile optical switches - mint - <a href="https://www.keychron.com/products/low-profile-keychron-optical-switch-set-87-pcs?variant=39401450405977">link</a></li>
     <li>LED contoller chip - IS31FL3731 - <a href="https://www.lumissil.com/applications/industrial/appliance/major-appliances/range-hood/is31fl3731">link</a></li>
+    <li>
+        <h3>Microcontrollers:</h3>
+        <ol>
+            <li>None QMK support: 129IO - STM32F373VCH7 <a href="https://www.mouser.co.il/ProductDetail/STMicroelectronics/STM32F373VCH7?qs=Ok1pvOkw6%2FrguXBsDeP03g%3D%3D">link</a></li>
+            <li>QMK support: 115IO - STM32F303ZET7 <a href="https://www.mouser.co.il/ProductDetail/STMicroelectronics/STM32F303ZET7?qs=JkuGhO7zlplfva7%252BXtzo1w%3D%3D">link</a></li>
+        </ol>
+    </li>
 </ol>
