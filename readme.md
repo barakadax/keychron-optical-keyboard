@@ -14,4 +14,6 @@ Trying to build a low profile optical keyboard using Keychron switches, 112 keys
     <li>Keychron low profile optical switches - mint - <a href="https://www.keychron.com/products/low-profile-keychron-optical-switch-set-87-pcs?variant=39401450405977" target="_blank">link</a></li>
     <li>LED contoller chip - 30IO - LP5030RJVR - <a href="https://mou.sr/4fIoJ6l" target="_blank">link</a></li>
     <li>Controller QMK support: 115IO - STM32F303ZET7 - <a href="https://mou.sr/4hJtwWL" target="_blank">link</a></li>
+    <li>Phototransistor - <a href="https://jlcpcb.com/partdetail/ChauLight-ZPT_1608B_08Z3/C575390" target="_blank">link</a></li>
+    <li>IR Emitter - <a href="https://jlcpcb.com/partdetail/ChauLight-ZIR_1608C_08Z3/C575389" target="_blank">link</a></li>
 </ol>
